@@ -1,0 +1,5 @@
+# PlatformIO build output: big, and rebuilt on every machine
+.pio/
+.vscode/
+# Your real Wi-Fi name and password. Never commit this file.
+include/secrets.h
